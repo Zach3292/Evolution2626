@@ -297,6 +297,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 .about_bg {
     background: url(../images/about_bg.png)no-repeat right;
+    width:100%;
 }
 
 /*Head Title*/
