@@ -314,7 +314,10 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 #why_us h2 {
     margin: 70px 0 20px;
 }
-.why_us_item{ padding-top: 55px;}
+.why_us_item{ 
+    padding-top: 55px;
+    text-align: justify;
+}
 #why_us .fa{
     border-radius: 100%;
     box-shadow: 0 0 0 10px #ffcb0f, 0 0 0 20px #fadb64, 0 0 0 30px #f7e59c;
@@ -337,7 +340,12 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 .service_item .btn.know_btn {
     margin: 20px 0 100px;
 }
-
+.service_item img{
+    height: 300px;
+}
+.service_item p{
+    text-align: justify;
+}
 /* Portfolio */
 #portfolio {
     background: rgba(0, 0, 0, 0) url("../images/portfolio_bg.jpg") no-repeat scroll 0 0;
