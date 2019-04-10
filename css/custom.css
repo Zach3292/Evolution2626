@@ -274,6 +274,10 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 
 /* About */
+.about_banner iframe{
+    width:711px ;
+    height:400px ;
+}
 .about_content {
     margin-right: 25px;
 }
